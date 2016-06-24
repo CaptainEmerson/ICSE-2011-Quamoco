@@ -8,8 +8,9 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [Link to the original video of the tool](http://www.youtube.com/watch?v=D9sKbctf0Cw&hd=1)
 
 In this repository, for Quamoco you will find:
- * :white_check_mark: Source code (available)
- * :white_check_mark: The original tool (available)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
  
 This repository was constructed by [Vrushti Shah](https://github.com/vrushti1991) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).  
 
